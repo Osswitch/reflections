@@ -1,0 +1,13 @@
+It would show your the difference between the old version and the new one.
+
+It would be helpful for you to figure out where and what changes you have made all the way.
+
+When you choose to manually create a commit it means you know something meaningful has been down, but if there are any accidents happen it may cause you losing some data.
+
+Some files may have connections between each other.
+
+Using 'git log' to get the commit id and 'git diff' to see the differences.
+
+It would ensure you to recovery any point that has been made as a commit.
+
+Download some open source project.
