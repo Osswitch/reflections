@@ -1,0 +1,3 @@
+It build the .git directionary. It's the relationship between commits.
+
+It offers you the intermedia stages which help the logical.
